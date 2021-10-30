@@ -25,13 +25,15 @@
 
 4. Data Pre-processing  
 5. Model Building  
+Linear Regression Algorithm is used for model building.
+
 6. Model Performance Calculation  
 ![image](https://user-images.githubusercontent.com/26693264/139542609-aa8d30f5-dd06-427b-b8d7-1043ce75d0f2.png)
 
 ### Summary
 In this project I have achieved an adjusted R Squared value of 98.8% which is pretty close to 1, indicating our selected "Independent Variables“ are highly correlated to our "Dependent Variable" and our model is able to predict very accurately.
 
-8. Tableau Dashboard  
+7. Tableau Dashboard  
 ![image](https://user-images.githubusercontent.com/26693264/139542676-b5ad879c-5f98-4ddc-96d5-1b76fc14dfce.png)
 
 Tableau Dashboard Link: https://public.tableau.com/app/profile/abhinandan.samal/viz/RealEstate_16352172091230/RealEstate
